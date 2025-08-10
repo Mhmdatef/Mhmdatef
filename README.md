@@ -1,16 +1,12 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="100%"/>
-</p>
-
-<h1 align="center">Hey there, I'm Mohamed Atef Mostafa 👨‍💻</h1>
-<h3 align="center">💻 Junior Node.js Backend Developer | Turning Coffee into Code ☕💻</h3>
+<h1 align="center">Mohamed Atef Mostafa 👨‍💻</h1>
+<h3 align="center">💻 Junior Node.js Backend Developer from Egypt 🇪🇬</h3>
 
 ---
 
 ## 🚀 About Me
 - 🎓 **BSc in Computer Science** – Faculty of Computer & AI, Benha University (Graduating 2025)  
-- 🛠 Specialized in **Node.js**, **Express.js**, and **MongoDB**  
+- 🛠 Specialized in **Node.js**, **Express.js**, **NestJS**, and **MongoDB**  
+- 🗄️ Experienced with **PostgreSQL** and **SQLite**  
 - 🛡️ Passionate about **security**, **scalability**, and **clean code**  
 - ✨ APIs documented with **Swagger** & tested via **Postman**  
 - 📚 Always learning **System Design** & **TypeScript**  
@@ -19,28 +15,17 @@
 
 ## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,typescript,javascript,cpp,python,html,css,git,postgres,mysql&perline=6" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,mongodb,postgres,sqlite,typescript,javascript,cpp,python,html,css,git&perline=6" />
 </p>
-
----
-
-## 📊 Skill Levels
-| Skill             | Level |
-|-------------------|-------|
-| Node.js           | ████████████░░░  90% |
-| Express.js        | ███████████░░░░  85% |
-| MongoDB           | ██████████░░░░░  80% |
-| TypeScript        | █████████░░░░░░  75% |
-| JavaScript        | ████████████░░░  90% |
 
 ---
 
 ## 📌 Featured Projects
 ### 🎓 [Faculty Management System](https://github.com/Mhmdatef/Faculty-management-system)
-📚 Backend for managing university workflows with enrollment, grade tracking, JWT auth, file uploads, and role-based access.  
+Backend for managing university workflows with enrollment, grade tracking, JWT auth, file uploads, and role-based access.  
 
 ### 🎬 [Movie Reservation System](https://github.com/Mhmdatef/Movie-Reservation-System)
-🎟️ Cinema booking platform with Stripe payments, password reset system, role-based access, and advanced filtering.
+Cinema booking platform with Stripe payments, password reset system, role-based access, and advanced filtering.
 
 ---
 
@@ -66,10 +51,7 @@
   <a href="https://github.com/Mhmdatef">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="300px"/>
+  <a href="https://www.instagram.com/3atofa_1/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
