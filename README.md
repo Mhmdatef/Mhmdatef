@@ -21,6 +21,7 @@
 ---
 
 ## 📚 Currently Learning
+
 <p align="center">
   <b>NestJS</b> ▇▇▇▇▇▆▂ (70%) &nbsp;&nbsp;&nbsp; <b>PostgreSQL</b> ▇▇▇▆▂▂▂ (50%) &nbsp;&nbsp;&nbsp; <b>SQLite</b> ▇▇▆▂▂▂▂ (30%)
 </p>
@@ -62,5 +63,4 @@ Cinema booking platform with Stripe payments, password reset system, role-based 
   <a href="https://www.instagram.com/3atofa_1/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <!-- لو عندك مدونة أو StackOverflow ممكن تضيف هنا -->
 </p>
