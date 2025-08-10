@@ -5,17 +5,23 @@
 
 ## 🚀 About Me
 - 🎓 **BSc in Computer Science** – Faculty of Computer & AI, Benha University (Graduating 2025)  
-- 🛠 Specialized in **Node.js**, **Express.js**, **NestJS**, and **MongoDB**  
-- 🗄️ Experienced with **PostgreSQL** and **SQLite**  
+- 🛠 Specialized in **Node.js**, **Express.js**, and **MongoDB**  
 - 🛡️ Passionate about **security**, **scalability**, and **clean code**  
 - ✨ APIs documented with **Swagger** & tested via **Postman**  
-- 📚 Always learning **System Design** & **TypeScript**  
+- 📚 Always learning new backend technologies to improve performance and scalability  
 
 ---
 
 ## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,mongodb,postgres,sqlite,typescript,javascript,cpp,python,html,css,git&perline=6" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,typescript,javascript,cpp,python,html,css,git&perline=6" />
+</p>
+
+---
+
+## 📚 Currently Learning
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nestjs,postgres,sqlite&perline=6" />
 </p>
 
 ---
