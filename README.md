@@ -1,10 +1,10 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120px"/>
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="100%"/>
 </p>
 
-<h1 align="center">Hi there, I'm Mohamed Atef Mostafa 👨‍💻</h1>
-<h3 align="center">💻 Junior Node.js Backend Developer from Egypt 🇪🇬</h3>
+<h1 align="center">Hey there, I'm Mohamed Atef Mostafa 👨‍💻</h1>
+<h3 align="center">💻 Junior Node.js Backend Developer | Turning Coffee into Code ☕💻</h3>
 
 ---
 
@@ -13,41 +13,50 @@
 - 🛠 Specialized in **Node.js**, **Express.js**, and **MongoDB**  
 - 🛡️ Passionate about **security**, **scalability**, and **clean code**  
 - ✨ APIs documented with **Swagger** & tested via **Postman**  
+- 📚 Always learning **System Design** & **TypeScript**  
 
 ---
 
 ## 🛠 Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,typescript,javascript,cpp,python,html,css,git,postgres,mysql&perline=6" />
 </p>
+
+---
+
+## 📊 Skill Levels
+| Skill             | Level |
+|-------------------|-------|
+| Node.js           | ████████████░░░  90% |
+| Express.js        | ███████████░░░░  85% |
+| MongoDB           | ██████████░░░░░  80% |
+| TypeScript        | █████████░░░░░░  75% |
+| JavaScript        | ████████████░░░  90% |
 
 ---
 
 ## 📌 Featured Projects
 ### 🎓 [Faculty Management System](https://github.com/Mhmdatef/Faculty-management-system)
-Backend for managing university workflows with enrollment, grade tracking, JWT auth, file uploads, and role-based access.  
+📚 Backend for managing university workflows with enrollment, grade tracking, JWT auth, file uploads, and role-based access.  
 
 ### 🎬 [Movie Reservation System](https://github.com/Mhmdatef/Movie-Reservation-System)
-Cinema booking platform with Stripe payments, password reset system, role-based access, and advanced filtering.
+🎟️ Cinema booking platform with Stripe payments, password reset system, role-based access, and advanced filtering.
 
 ---
 
-## 📊 GitHub Stats
-<p>
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mhmdatef&theme=radical" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Mhmdatef&show_icons=true&theme=radical" height="180em"/>
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mhmdatef&layout=compact&theme=radical" height="180em"/>
 </p>
 
 ---
 
 ## 🌐 Connect with Me
-<p>
+<p align="center">
   <a href="http://www.linkedin.com/in/mohamed-atef-615481296">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -57,4 +66,10 @@ Cinema booking platform with Stripe payments, password reset system, role-based 
   <a href="https://github.com/Mhmdatef">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="300px"/>
 </p>
